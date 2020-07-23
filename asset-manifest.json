@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-app-firebase/static/css/main.f56d6f5b.chunk.css",
+    "main.js": "/todo-app-firebase/static/js/main.abf483c5.chunk.js",
+    "main.js.map": "/todo-app-firebase/static/js/main.abf483c5.chunk.js.map",
+    "runtime-main.js": "/todo-app-firebase/static/js/runtime-main.a3693cab.js",
+    "runtime-main.js.map": "/todo-app-firebase/static/js/runtime-main.a3693cab.js.map",
+    "static/js/2.d36b3cda.chunk.js": "/todo-app-firebase/static/js/2.d36b3cda.chunk.js",
+    "static/js/2.d36b3cda.chunk.js.map": "/todo-app-firebase/static/js/2.d36b3cda.chunk.js.map",
+    "index.html": "/todo-app-firebase/index.html",
+    "precache-manifest.4adbafe015c14ca58c44f40aad64deb8.js": "/todo-app-firebase/precache-manifest.4adbafe015c14ca58c44f40aad64deb8.js",
+    "service-worker.js": "/todo-app-firebase/service-worker.js",
+    "static/css/main.f56d6f5b.chunk.css.map": "/todo-app-firebase/static/css/main.f56d6f5b.chunk.css.map",
+    "static/js/2.d36b3cda.chunk.js.LICENSE.txt": "/todo-app-firebase/static/js/2.d36b3cda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3693cab.js",
+    "static/js/2.d36b3cda.chunk.js",
+    "static/css/main.f56d6f5b.chunk.css",
+    "static/js/main.abf483c5.chunk.js"
+  ]
+}
